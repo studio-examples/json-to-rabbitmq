@@ -1,5 +1,5 @@
 # 20. JSON to AMQP (RabbitMQ)
-================
+
 
 
 This example shows you how to use the AMQP connector to send JSON data to RabitMQ, an open source message broker that implements AMQP.
