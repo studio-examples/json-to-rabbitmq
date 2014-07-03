@@ -1,4 +1,4 @@
-# 20. JSON to AMQP (RabbitMQ)
+# JSON to AMQP (RabbitMQ)
 
 
 
